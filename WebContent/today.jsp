@@ -53,6 +53,6 @@
 </head>
 <body>
 <h1>오늘의 메뉴</h1>
-<%=selMenu%>
+<h3><%=selMenu%></h3>
 </body>
 </html>
